@@ -1,0 +1,2 @@
+# EndOfYearProject
+"Controlling for Confounding in Machine Learning Genetic Predictions, A Comparison" - comparison of two methods of confounder adjustment in machine learning genetic predictions - namely input (traditional, widely implemented) and output (recently introduced). XGBoost gradient boosting was utilised in both methods on UK BioBank Fluid Intelligence Phenotype data. The methods were compared in terms of model performance, accuracy, time elapsed and computational burden.
